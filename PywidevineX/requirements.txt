@@ -3,3 +3,4 @@ requests==2.22.0
 protobuf==3.17.3
 pycryptodome==3.10.1
 pycryptodomex==3.10.1
+argparse==1.4.0
